@@ -22,7 +22,7 @@ h3{
   padding: 2%;
 }
 p{
-  color: #8f8f8f;
+color: #8f8f8f;
 }
 
 /* title section */
@@ -53,6 +53,7 @@ p{
  /* features section */
  #features{
    padding: 7% 12%;
+
  }
 .feature-box{
   text-align: center;
@@ -92,4 +93,25 @@ p{
 .press-image{
   width: 15%;
   margin: 25px;
+}
+
+/* pricing */
+#pricing{
+  text-align: center;
+  background-color: #ff4c68;
+}
+.pricing-header{
+  padding: 2% 3%;
+  color: white;
+
+}
+.pricing-option{
+  padding: 2% 3%;
+}
+
+#cta{
+  text-align: center;
+}
+#footer{
+  text-align: center;
 }
